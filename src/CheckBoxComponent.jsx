@@ -11,8 +11,8 @@ import React from 'react'
 import Checkbox from "@mui/material/Checkbox"
 // import {Checkbox} from "@mui/material"  // second way to import checkbox
 
-import {Favorite} from "@mui/icons-material/Favorite"
-import {FavoriteBorder} from "@mui/icons-material/FavoriteBorder"
+import Favorite from "@mui/icons-material/Favorite"
+import FavoriteBorder from "@mui/icons-material/FavoriteBorder"
 
 import { useState } from 'react';
 
